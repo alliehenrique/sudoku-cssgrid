@@ -1,0 +1,19 @@
+.grid-container {
+
+}
+
+.grid-item {
+    text-align: center;
+    font-weight: bold;
+    color: #2980B9;
+    background-color: #D6EAF8;
+    margin: 2px;
+}
+
+
+
+
+h2 {
+    text-align: center;
+    color: #2980B9;
+}
